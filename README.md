@@ -5,7 +5,11 @@
 Startup Funding Forecasting & Trend Analysis is an end-to-end machine learning and time-series forecasting project that analyzes historical startup funding data, identifies investment trends, evaluates multiple forecasting models, and predicts future funding activity through an interactive Streamlit dashboard.
 
 The project is designed to simulate a real-world analytics platform used by venture capital firms, startup analysts, investors, and business intelligence teams.
+---
 
+## 🌐 View my App  
+
+**Streamlit App:** [FundingIQ](https://fundingiq.streamlit.app/)
 ---
 
 ## Features
